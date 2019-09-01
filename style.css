@@ -81,7 +81,9 @@ body
 
 .profile-img
 {
-	height: 300px;
+	width: auto ;
+	max-width: 100% ;
+	height: auto ;
 }
 
 .nav-bar
